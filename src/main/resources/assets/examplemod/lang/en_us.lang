@@ -1,4 +1,8 @@
 item.examplemod_ObsidianPickaxe=Obsidian Pickaxe
-item.examplemod_Structure_Gel.name=Structure Gel
-item.examplemod_Speaker.name=Speaker
+item.examplemod_Lava_Cannon.name=Lava Cannon
+item.examplemod_Water_Trident.name=Water Trident
+item.examplemod_Finnicks_Trident.name=Finnicks Trident
+item.examplemod_TNT_Gun.name=TNT Gun
+item.examplemod_Molecules_Pack.name=Molecules Pack
+item.examplemod_Stun_Gun.name=Stun Gun
 tile.examplemod_Building_Block.name=Building Block
