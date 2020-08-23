@@ -2,12 +2,12 @@ package com.idtech.item;
 
 import net.minecraft.creativetab.CreativeTabs;
 
-public class ItemFinnicksTrident extends QuickItem {
-
+public class ItemEthansTrident extends QuickItem {
     // This will be the battle trident
     {
-        name = "Finnicks Trident";
+        name = "Ethans Trident";
         tab = CreativeTabs.COMBAT;
+        // Need to add texture
         texture = "structuregel";
     }
 
@@ -15,5 +15,4 @@ public class ItemFinnicksTrident extends QuickItem {
     public void onRightClick(){
 
     }
-
 }

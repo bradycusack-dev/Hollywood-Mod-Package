@@ -10,4 +10,9 @@ public class ItemTNTGun extends QuickItem {
         texture = "tntgun";
     }
 
+    // On right click - this one will shoot TNT far (range at least 100)
+    public void onRightClick(){
+
+    }
+
 }

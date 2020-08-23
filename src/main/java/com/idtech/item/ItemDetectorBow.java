@@ -10,4 +10,9 @@ public class ItemDetectorBow extends QuickItem {
         texture = "bowandarrow";
     }
 
+    // This one will detect players and mobs nearby and hunt them.
+    public void onRightClick(){
+        // This will shoot arrows that track players and mobs nearby
+    }
+
 }
